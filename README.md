@@ -2,6 +2,12 @@
 
 Welcome to the Valocity Engineering recruitment test repository! This repository contains two exercises designed to assess candidates for intern and software engineering positions.
 
+## Technology
+
+This solution is built with C# and .NET 8.0, which reflects the technology stack used at Valocity. To build and run the second exercise, you will need the .NET 8.0 SDK: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
+Microsoft's Visual Studio Code is also a useful IDE for this project: https://code.visualstudio.com/download
+
 ## Overview
 
 Choose the exercise that best matches your experience level and the role you're applying for:
